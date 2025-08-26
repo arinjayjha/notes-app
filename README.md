@@ -1,4 +1,4 @@
-# Notes App – Problem 3 (React + Node.js + Axios)
+# Notes App (React + Node.js + Axios)
 
 A minimal full‑stack notes app to satisfy **Problem 3** of the assessment:
 - **Backend (Node + Express)** with in‑memory storage and two endpoints.
